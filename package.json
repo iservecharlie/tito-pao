@@ -33,9 +33,7 @@
     "gulp-sass": "4.0.2",
     "gulp-uglify": "3.0.2",
     "gulp-connect": "^2.3.1",
-    "merge-stream": "2.0.0"
-  },
-  "devDependencies": {
+    "merge-stream": "2.0.0",
     "browser-sync": "2.26.7"
   }
 }
