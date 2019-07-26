@@ -1,0 +1,39 @@
+{
+  "title": "PaoLuL fan page",
+  "name": "tito-pao",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp watch",
+    "build": "./node_modules/.bin/gulp build"
+  },
+  "description": "Creates a dev env for templating/designing projects.",
+  "keywords": [
+    "paolul",
+    "pampamilya",
+    "memes",
+    "sukot",
+    "demonetize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iservecharlie/tito-pao.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "bootstrap": "^4.3.1",
+    "popper.js": "^1.15.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "4.1.1",
+    "gulp": "4.0.2",
+    "gulp-clean-css": "4.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "2.0.0"
+  }
+}
